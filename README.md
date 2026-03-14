@@ -9,3 +9,6 @@ Licensed under the Apache License 2.0.
 本仓库重新分发了 Shizuku 项目中的 rish 组件。
 原项目： https://github.com/RikkaApps/Shizuku
 遵循 Apache License 2.0 许可协议。
+
+Modified from the original rish in Shizuku project
+改编自 Shizuku 项目中的 rish

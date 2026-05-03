@@ -1,6 +1,6 @@
 #!/system/bin/sh
 BASEDIR=$(dirname "$0")
-DEX=/data/data/com.termux/files/home/storage/Shizuku/rish_shizuku.dex
+DEX=/data/user/0/com.termux/files/home/storage/Shizuku/rish_shizuku.dex
 
 if [ ! -f "$DEX" ]; then
   echo "Cannot find $DEX, please check the tutorial in Shizuku app"
